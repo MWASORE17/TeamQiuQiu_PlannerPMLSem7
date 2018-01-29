@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Planner</string>
+
+    <!-- NoteEditorActivity Strings -->
+    <string name="note_editor_title_hint">Title</string>
+    <string name="note_editor_text_hint">Note</string>
+
+    <!-- Action Strings -->
+    <string name="action_logout">logout</string>
+    <string name="action_send">Send</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+
+    <string name="action_warning">This cannot be undone!</string>
+    <string name="no_notes_found">No Notes Found</string>
+    <string name="note_deletion_dialog_title">Confirm Deletion</string>
+    <string name="deletion_success">Note Deleted!</string>
+    <string name="save_success">Note Saved!</string>
+    <string name="share_with_title">Share with…</string>
+
+</resources>
